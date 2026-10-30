@@ -7,9 +7,8 @@ Aspiring Software Engineer with a strong interest in Java, Spring Boot, MySQL, a
 
 Resume
 You can view/download my latest resume here:
-sahil_yadav_resume.pdf
+[sahil_yadav_resume .pdf](https://github.com/user-attachments/files/34194215/sahil_yadav_resume.pdf)
 
-Resume.pdf
 Skills
 Java
 Spring Boot
